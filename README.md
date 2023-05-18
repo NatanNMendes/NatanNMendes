@@ -78,7 +78,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <div align="left" style="display:inline_block">
   <!--WHATSAPP-->
-  <a href=" https://wa.me/5575988055119" target="blank">
+  <a href="https://wa.me/5575988055119" target="blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <!--TELEGRAM-->
