@@ -70,7 +70,8 @@
 <!--DADOS DO GITHUB-->
 <div>
   <!--STATUS DO GITHUB-->
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanNMendes&theme=panda"/>
+  <h3 align="left">Status do GitHub:</h3>
+  <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
   <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNMendes&layout=compact&langs_count=16&theme=panda"/>
+  <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
 </div>
