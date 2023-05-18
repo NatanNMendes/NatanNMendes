@@ -68,10 +68,37 @@
  </a>
 </div>
 <!--DADOS DO GITHUB-->
-<div>
-  <!--STATUS DO GITHUB-->
-  <h3 align="left">Status do GitHub:</h3>
+<h3 align="left">Status do GitHub:</h3>
+<div style="display:inline_block">
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
   <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
 </div>
+<h3 align="left">Redes Sociais:</h3>
+<div align="left" style="display:inline_block">
+  <a href="" target="blank">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+   <a href="" target="blank">
+    <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="" target="blank">
+    <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="" target="blank">
+    <img align="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</div>
+  
