@@ -61,9 +61,16 @@
  <!--PHOTOSHOP-->
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40"  alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-</a>
-<!--GITHUB-->
-<a href="https://www.github.com/" target="_blank" rel="noreferrer">
-  <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</a>
-
+ </a>
+ <!--GITHUB-->
+ <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+   <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ </a>
+</div>
+<!--DADOS DO GITHUB-->
+<div>
+  <!--STATUS DO GITHUB-->
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanNMendes&theme=panda"/>
+  <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNMendes&layout=compact&langs_count=16&theme=panda"/>
+</div>
