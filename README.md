@@ -47,7 +47,7 @@
     <img align="center" height="40" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </a>
   <!--MYSQL-->
-  <a href="https://https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
      <img align="center" height="40" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </a>
   <!--FIGMA-->
