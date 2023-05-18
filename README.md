@@ -27,7 +27,7 @@
     <img align="center" height="40" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </a>
   <!--BOOTSTRAP-->
-  <a href="https://https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </a>
   <!--ANGULARJS-->
