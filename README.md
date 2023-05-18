@@ -86,7 +86,7 @@
     <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <!--INSTAGRAM-->
-  <a href="" target="blank">
+  <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
     <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!--LINKEDIN-->
