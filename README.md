@@ -1,13 +1,13 @@
-### Olá! Eu sou Natan Nunes Mendes👋
-<div>
-  <!--STATUS DO GITHUB-->
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanNMendes&theme=panda"/>
-  <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNMendes&layout=compact&langs_count=16&theme=panda"/>
-</div>
+<!--SOBRE MIM-->
+<h1 align="left">Olá! Eu sou Natan Nunes Mendes👋<h1>
+<h4 align="left">📚 Nos dias atuais estou cursando o 2º (Segundo) semestre do Curso Técnico de Desenvolvimento de Sistemas desenvolvido pelo SENAI (Serviço Nacional de Aprendizagem Industrial).Ademais, sou formado em Illustrator e Photoshop por meio da Gracom - Escola de Efeitos Visuais, para complementar tenho curso intermediário em Inglês através da plantaforma mobile Wlingua.</h4>
+<h4 align="left">📽️ Gosto de assistir filmes de Ação e Aventura assim como de heróis e Animes em geral, princincipalmente os classicos como por exemplo: Ghostbusters (Os Caça-Fantasmas);</h4>
+<h4 align="left">🕹️ Prefiro jogos Online como Battle Royale, FPS (First-Person Shooters/Tiro em Primeira Pessoa) e no estilo ARCADE, tais como Fortnite, XDefiant, Super Mario e Sonic the Hedgehog (Sonic o Ouriço);</h4>
+<!--LINGUAGENS E FERRAMENTAS-->
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display:inline_block">
   <!--HTML-->
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/" tar rget="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   <!--CSS-->
@@ -21,22 +21,10 @@
   <!--TYPESCRIPT-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  </a> 
+  </a>
   <!--PHP-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  </a>
-  <!--BOOTSTRAP-->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img align="center" height="40" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  </a>
-  <!--ANGULARJS-->
-  <a href="https://www.angularjs.org/" target="_blank" rel="noreferrer">
-     <img align="center" height="40" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  </a>
-  <!--WORDPRESS-->
-  <a href="https://www.wordpress.com/" target="_blank" rel="noreferrer">
-    <img align="center" height="40" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   </a>
   <!--PYTHON-->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -50,12 +38,32 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
      <img align="center" height="40" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </a>
+  <!--BOOTSTRAP-->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img align="center" height="40" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  </a>
+  <!--ANGULARJS-->
+  <a href="https://www.angularjs.org/" target="_blank" rel="noreferrer">
+     <img align="center" height="40" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  </a>
+  <!--WORDPRESS-->
+  <a href="https://www.wordpress.com/" target="_blank" rel="noreferrer">
+    <img align="center" height="40" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  </a>
   <!--FIGMA-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   </a>
-  <!--GITHUB-->
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <!--ILLUSTRATOR-->
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img align="center" height="40" width="40" alt="illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
   </a>
-</div>
+ <!--PHOTOSHOP-->
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+   <img align="center" height="40" width="40"  alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+</a>
+<!--GITHUB-->
+<a href="https://www.github.com/" target="_blank" rel="noreferrer">
+  <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</a>
+
