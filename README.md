@@ -1,8 +1,8 @@
 ### Olá! Eu sou Natan Nunes Mendes👋
 <div>
+  <!--STATUS DO GITHUB-->
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanNMendes&theme=panda"/>
-</div>
-<div>
+  <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNMendes&layout=compact&langs_count=16&theme=panda"/>
 </div>
 <div style="display:inline_block">
