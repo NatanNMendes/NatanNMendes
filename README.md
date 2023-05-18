@@ -18,8 +18,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
      <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
+  <!--TYPESCRIPT-->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img align="center" height="40" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  </a> 
   <!--PHP-->
-  <a href="https://https://php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </a>
   <!--BOOTSTRAP-->
