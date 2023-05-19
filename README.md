@@ -90,7 +90,7 @@
     <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!--LINKEDIN-->
-  <a href="" target="blank">
+  <a href="https://www.linkedin.com/in/natan-nunes-mendes-desenvolvedorweb/" target="blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!--OUTLOOK-->
