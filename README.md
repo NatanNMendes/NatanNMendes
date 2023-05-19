@@ -69,7 +69,7 @@
 </div>
 <!--DADOS DO GITHUB-->
 <h3 align="left">Status do GitHub:</h3>
-<div style="display:inline_block">
+<div>
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
   <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
@@ -77,12 +77,8 @@
 <!--REDES SOCIAIS-->
 <h3 align="left">Redes Sociais:</h3>
 <div align="left" style="display:inline_block">
-  <!--WHATSAPP-->
-  <a href="https://wa.me/5575988055119" target="blank">
-    <img align="center" alt="instagram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <!--TELEGRAM-->
-  <a href="" target="blank">
+  <a href="https://t.me/NatanNMendes" target="blank">
     <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <!--INSTAGRAM-->
@@ -93,21 +89,8 @@
   <a href="https://www.linkedin.com/in/natan-nunes-mendes-desenvolvedorweb/" target="blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--OUTLOOK-->
-  <a href="" target="blank">
-    <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <!--TWITCH-->
-  <a href="" target="blank">
-    <img align="center" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
   <!--DISCORD-->
   <a href="" target="blank">
     <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <!--CODE PEN-->
-  <a href="" target="blank">
-    <img align="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
 </div>
   
