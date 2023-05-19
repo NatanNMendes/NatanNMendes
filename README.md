@@ -71,7 +71,9 @@
 <h3 align="left">Status do GitHub:</h3>
 <div>
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
-  <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
+</div>
+<div>
+   <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
 </div>
 <!--REDES SOCIAIS-->
@@ -81,16 +83,13 @@
   <a href="https://t.me/NatanNMendes" target="blank">
     <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <!--INSTAGRAM-->
-  <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
-    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <!--LINKEDIN-->
   <a href="https://www.linkedin.com/in/natan-nunes-mendes-desenvolvedorweb/" target="blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--DISCORD-->
-  <a href="" target="blank">
-    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <!--INSTAGRAM-->
+  <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
   
