@@ -70,11 +70,13 @@
 <!--DADOS DO GITHUB-->
 <h3 align="left">Status do GitHub:</h3>
 <div>
-  <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
-</div>
-<div>
+  <p>
+    <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
+  </p>
    <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
-  <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
+  <p>
+    <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
+  </p>
 </div>
 <!--REDES SOCIAIS-->
 <h3 align="left">Redes Sociais:</h3>
