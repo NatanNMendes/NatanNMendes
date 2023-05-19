@@ -71,11 +71,11 @@
 <h3 align="left">Status do GitHub:</h3>
 <div>
   <p>
-    <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
+    <img align="center" width="480em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
   </p>
    <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <p>
-    <img align="center" height="180em" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
+    <img align="center" width="480" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
   </p>
 </div>
 <!--REDES SOCIAIS-->
