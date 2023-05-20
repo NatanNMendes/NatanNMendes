@@ -91,7 +91,11 @@
   </a>
   <!--INSTAGRAM-->
   <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
-    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <!--CODEPEN-->
+  <a href="https://codepen.io/Natan_NUN3S" target="blank">
+    <img align="center" alt="codepen" src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)" />
   </a>
 </div>
   
