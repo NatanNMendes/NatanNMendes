@@ -97,5 +97,6 @@
   <a href="https://codepen.io/Natan_NUN3S" target="blank">
     <img align="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
-</div>
+
+ </div>
   
