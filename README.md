@@ -75,7 +75,7 @@
   </p>
    <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <p>
-    <img align="center" width="480" alt="NatanNMendes"src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes_icons=true&locale=en&layout=compact&theme=panda"/>
+    <img align="center" width="480" alt="NatanNMendes"src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
   </p>
 </div>
 <!--REDES SOCIAIS-->
