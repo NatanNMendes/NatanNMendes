@@ -66,6 +66,10 @@
  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  </a>
+  <!--REACT-->
+ <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+   <img align="center" height="40" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ </a>
 </div>
 <!--DADOS DO GITHUB-->
 <h3 align="left">Status do GitHub:</h3>
