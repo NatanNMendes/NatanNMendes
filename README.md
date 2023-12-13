@@ -62,13 +62,17 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40"  alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
  </a>
- <!--GITHUB-->
+<!--GITHUB-->
  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  </a>
-  <!--REACT-->
- <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-   <img align="center" height="40" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<!--REACT-->
+ <a href="https://reactnative.dev/docs/environment-setup/" target="_blank" rel="noreferrer">
+   <img align="center" height="40" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ </a>
+<!--FLUTTER-->
+ <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
+   <img align="center" height="40" width="40" alt="flutter-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  </a>
 </div>
 <!--DADOS DO GITHUB-->
