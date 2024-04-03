@@ -1,6 +1,6 @@
 <!--SOBRE MIM-->
 <h1 align="left">Olá! Eu sou Natan Nunes Mendes👋<h1>
-<h4 align="left">📚 Nos dias atuais estou cursando o 2º (Segundo) semestre do Curso Técnico de Desenvolvimento de Sistemas ministrado pelo SENAI (Serviço Nacional de Aprendizagem Industrial).Ademais, sou formado em Illustrator e Photoshop por meio da Gracom - Escola de Efeitos Visuais, para complementar tenho curso intermediário em Inglês através da plantaforma mobile Wlingua.</h4>
+<h4 align="left">📚 Sou formado no Curso Técnico de Desenvolvimento de Sistemas ministrado pelo SENAI (Serviço Nacional de Aprendizagem Industrial).Ademais, sou formado em Illustrator e Photoshop por meio da Gracom - Escola de Efeitos Visuais, para complementar tenho curso intermediário em Inglês através da plantaforma mobile Wlingua.</h4>
 <h4 align="left">📽️ Gosto de assistir filmes de Ação e Aventura assim como de heróis e Animes em geral, princincipalmente os classicos como por exemplo: Ghostbusters (Os Caça-Fantasmas);</h4>
 <h4 align="left">🕹️ Prefiro jogos Online como Battle Royale, FPS (First-Person Shooters/Tiro em Primeira Pessoa) e no estilo ARCADE, tais como Fortnite, XDefiant, Super Mario e Sonic the Hedgehog (Sonic o Ouriço);</h4>
 <!--LINGUAGENS E FERRAMENTAS-->
