@@ -1,110 +1,50 @@
-<!--SOBRE MIM-->
-<h1 align="left">Olá! Eu sou Natan Nunes Mendes👋<h1>
-<h4 align="left">📚 Sou formado no Curso Técnico de Desenvolvimento de Sistemas ministrado pelo SENAI (Serviço Nacional de Aprendizagem Industrial).Ademais, sou formado em Illustrator e Photoshop por meio da Gracom - Escola de Efeitos Visuais, para complementar tenho curso intermediário em Inglês através da plantaforma mobile Wlingua.</h4>
-<h4 align="left">📽️ Gosto de assistir filmes de Ação e Aventura assim como de heróis e Animes em geral, princincipalmente os classicos como por exemplo: Ghostbusters (Os Caça-Fantasmas);</h4>
-<h4 align="left">🕹️ Prefiro jogos Online como Battle Royale, FPS (First-Person Shooters/Tiro em Primeira Pessoa) e no estilo ARCADE, tais como Fortnite, XDefiant, Super Mario e Sonic the Hedgehog (Sonic o Ouriço);</h4>
-<!--LINGUAGENS E FERRAMENTAS-->
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<div style="display:inline_block">
-  <!--HTML-->
-  <a href="https://www.w3schools.com/html/" tar rget="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <!--CSS-->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  <!--JAVASCRIPT-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-     <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  <!--TYPESCRIPT-->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  </a>
-  <!--PHP-->
-  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  </a>
-  <!--PYTHON-->
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <!--JAVA-->
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </a>
-  <!--MYSQL-->
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-     <img align="center" height="40" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>
-  <!--BOOTSTRAP-->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  </a>
-  <!--ANGULARJS-->
-  <a href="https://www.angularjs.org/" target="_blank" rel="noopener noreferrer">
-     <img align="center" height="40" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  </a>
-  <!--WORDPRESS-->
-  <a href="https://www.wordpress.com/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  </a>
-  <!--FIGMA-->
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-  </a>
-  <!--ILLUSTRATOR-->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="40" width="40" alt="illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
-  </a>
- <!--PHOTOSHOP-->
- <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-   <img align="center" height="40" width="40"  alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
- </a>
-<!--GITHUB-->
- <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
-   <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- </a>
-<!--REACT-->
- <a href="https://reactnative.dev/docs/environment-setup/" target="_blank" rel="noopener noreferrer">
-   <img align="center" height="40" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </a>
-<!--FLUTTER-->
- <a href="https://docs.flutter.dev/" target="_blank" rel="noopener noreferrer">
-   <img align="center" height="40" width="40" alt="flutter-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- </a>
-</div>
-<!--DADOS DO GITHUB-->
-<h3 align="left">Status do GitHub:</h3>
-<div>
-  <p>
-    <img align="center" width="480em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
-  </p>
-   <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
-  <p>
-    <img align="center" width="480" alt="NatanNMendes"src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
-  </p>
-</div>
-<!--REDES SOCIAIS-->
-<h3 align="left">Redes Sociais:</h3>
-<div align="left" style="display:inline_block">
-  <!--TELEGRAM-->
-  <a href="https://t.me/NatanNMendes" target="blank">
-    <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/natan-nunes-mendes-desenvolvedorweb/" target="blank">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!--INSTAGRAM-->
-  <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
-    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!--CODEPEN-->
-  <a href="https://codepen.io/Natan_NUN3S" target="blank">
-    <img align="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
 
- </div>
-  
+## Hello! My name is Natan Nunes Mendes
+#### Full-Stack Developer | Java | Spring Boot | React |
+(Feira de Santana, BA - Brasil)
+
+#### Linguagens e Ferramentas 🛠️
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://www.angularjs.org/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.wordpress.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/in/products/illustrator.html)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.photoshop.com/en)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/docs/environment-setup/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
+
+#### Redes Sociais:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NatanNMendes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Natan_NUN3S)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-3333FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/natan_nunes_mendes_95684)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-nunes-mendes-progamador/)
+[![E-mail](https://img.shields.io/badge/-Email-FF6600?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:natan_nunes_mendes@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575988055119)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NatanNMendes)
+
+Sobre Mim 👨‍💻👋
+Sou formado no Curso Técnico de Desenvolvimento de Sistemas pelo SENAI (Serviço Nacional de Aprendizagem Industrial) e possuo formação em Illustrator e Photoshop pela Gracom - Escola de Efeitos Visuais. Além disso, estou constantemente buscando aprimorar meus conhecimentos e possuo um curso de inglês intermediário através da plataforma móvel Wlingua.
+
+#### Habilidades e Experiência 🚀📚
+Com uma sólida formação em Desenvolvimento de Sistemas pelo SENAI e experiência como Suporte Técnico na Conexão Azul Digital, ofereço habilidades diversas e um compromisso inabalável com a excelência. Minha expertise em linguagens como Python, Java e JavaScript, combinada com experiência prática em desenvolvimento de backend e gerenciamento de banco de dados, me permite enfrentar desafios com eficiência e criatividade. Além disso, estou familiarizado com uma variedade de frameworks e sou certificado em Adobe Illustrator e Photoshop, demonstrando minha adaptabilidade e capacidade de aprendizado contínuo. Reconhecido por minhas habilidades analíticas, resolução eficiente de problemas e abordagem proativa aos projetos, estou preparado para contribuir significativamente para o sucesso da equipe da Hapvida. Minha dedicação ao aprendizado contínuo e ao trabalho em equipe me torna um candidato ideal para esta posição, onde posso aplicar minha experiência e paixão por soluções inovadoras. Contratar-me seria um investimento na obtenção de resultados consistentes e na promoção de um ambiente de trabalho dinâmico e colaborativo.
+
+### GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda)
+
+### Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda)
