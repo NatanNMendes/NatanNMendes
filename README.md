@@ -1,4 +1,26 @@
 
+<img id="github-badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge" onclick="copyUrl()">
+
+<script>
+    function copyUrl() {
+        const url = 'https://www.github.com/';  // URL do seu repositório GitHub
+        const textArea = document.createElement('textarea');
+        textArea.value = url;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+        alert('URL copiada para a área de transferência!');
+    }
+</script>
+
+<style>
+  .badge {
+      cursor: pointer;
+  }
+</style>
+
+
 ## Hello! My name is Natan Nunes Mendes
 #### Full-Stack Developer | Java | Spring Boot | React |
 (Feira de Santana, BA - Brasil)
