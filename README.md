@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copiar URL GitHub</title>
-    <style>
-        .badge {
-            cursor: pointer;
-        }
-    </style>
-</head>
-<body>
-    <h1>Clique no badge para copiar a URL</h1>
-    <img id="github-badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge" onclick="copyUrl()">
-    <script>
-        function copyUrl() {
-            const url = 'https://www.github.com/';
-            const textArea = document.createElement('textarea');
-            textArea.value = url;
-            document.body.appendChild(textArea);
-            textArea.select();
-            document.execCommand('copy');
-            document.body.removeChild(textArea);
-            alert('URL copiada para a área de transferência!');
-        }
-    </script>
-</body>
-</html>
-
-
-
 ## Hello! My name is Natan Nunes Mendes
 #### Full-Stack Developer | Java | Spring Boot | React |
 (Feira de Santana, BA - Brasil)
